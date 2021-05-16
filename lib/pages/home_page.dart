@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class HomePage extends StatelessWidget {
   int days = 30;
     String name = "Codepur";
