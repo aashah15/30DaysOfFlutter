@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class MyDrawer extends StatelessWidget {
-  final imageUrl = "http://10.0.2.2:80/myphotos/photos/Photo434.jpg";
+  final imageUrl = "https://avatars.githubusercontent.com/u/34867871?v=4";
   @override
   Widget build(BuildContext context) {
     return Drawer(
